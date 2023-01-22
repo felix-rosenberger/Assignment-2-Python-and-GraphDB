@@ -1,4 +1,4 @@
-# Python and GraphDB
+# Python and Neo4j GraphDB
 This project was an assignment as part of my master's degree at Macquarie University. The assignment consisted of multiple tasks:
 1. Write a [program](https://github.com/felix-rosenberger/Assignment-2-Python-and-GraphDB/blob/master/tweet_curation.py) to clean wrongly formatted JSON file containing 10000 tweets
 2. Use the JSON file to [create the data model in the Neo4j GraphDB](https://github.com/felix-rosenberger/Assignment-2-Python-and-GraphDB/blob/master/Graph_Model_Queries.ipynb). The respective nodes are:
